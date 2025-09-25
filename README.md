@@ -27,8 +27,11 @@ This project allows users to **store, search, update, and delete contacts** in a
 1. Open the project folder in **VS Code** or any C IDE  
 2. Compile the project using GCC:
    ```bash
-   gcc main.c -o addressbook```
-3. Run the executable:   
+   gcc main.c -o addressbook
+   ```
+3. Run the executable:
+   ```
    ./addressbook   # Linux / Mac
    addressbook.exe # Windows
+   ```
 
