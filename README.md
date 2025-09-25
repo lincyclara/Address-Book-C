@@ -19,7 +19,7 @@ This project allows users to **store, search, update, and delete contacts** in a
 ## 🛠️ Tech Stack / Tools
 - **Programming Language:** C  
 - **Concepts:** File Handling, Dynamic Memory Allocation, Pointers  
-- **IDE:** VS Code / Any C compiler  
+- **IDE:** VS Code / Any C compiler 
 
 ---
 
