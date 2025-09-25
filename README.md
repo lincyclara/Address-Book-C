@@ -30,5 +30,5 @@ This project allows users to **store, search, update, and delete contacts** in a
    gcc main.c -o addressbook
 3. Run the executable:   
    ./addressbook   # Linux / Mac
-   addressbook.exe # Windows
+   addressbook.exe # Windows```
 
