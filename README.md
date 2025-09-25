@@ -28,3 +28,7 @@ This project allows users to **store, search, update, and delete contacts** in a
 2. Compile the project using GCC:
    ```bash
    gcc main.c -o addressbook
+   
+   ./addressbook   # Linux / Mac
+   addressbook.exe # Windows
+
